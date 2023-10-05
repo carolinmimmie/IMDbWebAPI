@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ndj7NHFaqAVvj35HdJeN5pcnN2Ev25bVvKQWqXqkUtA=",
+  "Source": "IMDbWebAPI",
+  "BasePath": "_content/IMDbWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
